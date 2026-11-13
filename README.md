@@ -34,17 +34,17 @@ Led the project end to end as Scrum Master and built the platform (Vue.js 3, Qua
 The real-time perception chain of a driverless race car. 3D detection on LiDAR point clouds with PointPillars and CenterPoint (MMDetection3D), at 78.6% AP under 50 ms. I traced a sensor-to-simulator synchronisation fault and corrected it with temporal interpolation, worth +15.4 AP points.
 
 ### Plume
-**2026 · live at [plume-terrain.netlify.app](https://plume-terrain.netlify.app) · [source](https://github.com/LSAAD-ETRANGER/plume)**
+**2026 · live at [plume-terrain.netlify.app](https://plume-terrain.netlify.app) · [source](https://github.com/saadlayachi14/plume)**
 
 A phone-first web app for tradespeople: dictate the job, add photos, collect the client's signature on screen, send a branded PDF. It works offline and reports stay on the device. A serverless function calls Claude to clean up dictated notes under one strict rule: never add, drop or round a fact. Vanilla JavaScript PWA, jsPDF, Netlify Functions in TypeScript.
 
 ### Pharmacie La Mosquée
-**2026 · live at [pharmacielamosquee.netlify.app](https://pharmacielamosquee.netlify.app) · [source](https://github.com/LSAAD-ETRANGER/pharmacie-la-mosquee)**
+**2026 · live at [pharmacielamosquee.netlify.app](https://pharmacielamosquee.netlify.app) · [source](https://github.com/saadlayachi14/pharmacie-la-mosquee)**
 
 A bilingual French and Arabic (right-to-left) site for a family pharmacy in Oujda, Morocco, with an open/closed sign that follows Moroccan time. One hand-written HTML file, no framework.
 
 ### This portfolio
-**2026 · live at [saadlayachi.netlify.app](https://saadlayachi.netlify.app) · [source](https://github.com/LSAAD-ETRANGER/portfolio)**
+**2026 · live at [saadlayachi.netlify.app](https://saadlayachi.netlify.app) · [source](https://github.com/saadlayachi14/portfolio)**
 
 The case studies behind the numbers above. The LiDAR viewer in the hero is drawn live on a canvas, with no library.
 
