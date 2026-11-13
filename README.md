@@ -4,7 +4,7 @@ I design, ship and run AI systems that hold up outside the demo: assistants that
 
 Three years in production at CNPP (industrial risk prevention, France), with on-site deployments at Safran Nacelles and LVMH Hélios. Engineering degree in industrial computing from INSA Rouen Normandie.
 
-**[Portfolio](https://saadlayachi.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/saad-layachi)** · Normandy, Paris or remote · French, English, Arabic
+**[Portfolio](https://saadlayachi.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/saad-layachi)** · Based in Normandy, mobile across France · Available now · French, English, Arabic
 
 ## Measured results
 
@@ -52,8 +52,9 @@ The case studies behind the numbers above. The LiDAR viewer in the hero is drawn
 
 | | |
 |:---|:---|
-| **AI and data** | RAG, embeddings and semantic search, self-hosted LLMs (Ollama), Claude API, 3D vision (MMDetection3D), Python, Power BI |
-| **Software** | TypeScript and JavaScript, Vue.js 3, Quasar, Node.js, Express, REST APIs, MongoDB, SQL |
+| **AI and data** | RAG, embeddings and semantic search, self-hosted LLMs (Ollama), Claude API, 3D vision (MMDetection3D), OCR, Python, Power BI, Metabase |
+| **Software** | TypeScript and JavaScript, Vue.js 3, Quasar, Node.js, Express, REST APIs, MongoDB, SQL, Java, C |
+| **Automation** | Power Apps, Power Automate, SharePoint, Word and PowerPoint generation (docxtemplater, DrawingML) |
 | **Infrastructure** | Docker, Nginx, Linux, on-premise deployment, secrets, backup and restore, monitoring |
 | **Delivery** | Agile and Scrum (Scrum Master), specifications, acceptance testing, user training |
 
